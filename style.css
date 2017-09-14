@@ -1,0 +1,115 @@
+
+.navbar {
+    background-color: black;
+    border: none;
+}
+
+.navbar-header {
+    margin-top: -5px;
+    background-color: #2D2D2D;
+}
+
+.fa-circle {
+    color: #FB7777;
+}
+
+.navbar-brand {
+    background-color: black;
+}
+
+#accueil {
+    background-color: #FB7777;
+}
+
+.fa-envelope-o {
+    margin-top: 18px;
+    margin-left: 18px;
+
+}
+
+.jumbotron {
+    padding-bottom: inherit;
+    margin-bottom: inherit;
+}
+
+#jumbo1 {
+    height: 550px;
+    margin-top: -21px;
+    background-image: url("./images/header-bg.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    text-align: center;
+    color: white;
+}
+
+#headtext {
+    margin-top: 20px;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+#wikicoda {
+    margin-top: 100px;
+}
+
+.thumbnail {
+    text-align: center;
+    border: none;
+    background: #F2F2F2;
+}
+
+#jumbo2 {
+    background: #F2F2F2;
+}
+
+#lapheartcup {
+    color: #FB7777;
+    font-size: 20px;
+}
+.h3 {
+    color: #000;
+    font-size: x-large;
+}
+#jumbo3 {
+    text-align: center;
+    background-color: #E0E0E0;
+}
+
+#porto {
+    margin-bottom: 15px;
+    margin-top: -15px;
+}
+
+#phone {
+    background-color: #E0E0E0;
+}
+
+#jumbo4 {
+  text-align: center;
+    background-color: #F2F2F2;
+}
+
+#munter {
+    width: 100%;
+}
+
+#jumbo5 {
+    text-align: center;
+    background-color: #EBEBEB;
+}
+#jumbo6 {
+    text-align: center;
+    background-color: #FB7777;
+    color: white;
+}
+
+#jumbo7 {
+    text-align: center;
+    background-color: #2D2D2D;
+}
+#end {
+    color: #BDBDBD;
+    font-size: 25px;
+}
+
